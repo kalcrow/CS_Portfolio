@@ -1,1 +1,2 @@
-
+These programs allow a user to encrypt and decrypt a message consisting of characters, using encrypt.c and decrypt.c. It uses a DES Algorithm to 
+encrypt the text in blocks of 8 bytes, based off of a password given by the user.
