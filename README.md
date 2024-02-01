@@ -1,5 +1,5 @@
 # CS_Portfolio
-Portfolio of notable programming projects completed at NCSU to demonstrate programming ability
+Portfolio of notable programming projects completed by Kal Corwin at NCSU to demonstrate programming ability
 
 # CSC 230
 *C and Software Tools*
