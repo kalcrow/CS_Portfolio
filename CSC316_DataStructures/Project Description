@@ -1,0 +1,50 @@
+This project was created over the course of a semester, and consists of implementations of data structures and algorithms discussed in CSC316. 
+It also includes JUnit test cases for all implementations, reaching at least 80% coverage of all classes. The project overal has 97% test coverage, 
+with all tests passing successfully.
+The list of included structures and algorithmes included is as follows:
+Data Structures:
+- Lists
+  - Array Based List
+  - Singly Linked List
+- Queues
+- Priority Queues
+- Stacks
+- Trees
+  - Binary Tree
+  - AVL Tree
+  - Red Black Tree
+  - Splay Tree
+- Stacks
+- Graphs
+  - Adjacency List Graphs
+  - Adjacency Matrix Graph
+  - Edge List Graph
+- Positional Lists
+- Maps
+  - AVL Tree Map
+  - Binary Search Tree Map
+  - Red Black Tree Map
+  - Splay Tree Map
+  - Linear Probing Hash Map
+  - Separate Chaining Hash Map
+- Sets
+  - Hash Set
+  - Tree Set
+Algorithms:
+- Bubble Sorter
+- Counting Sorter
+- Insertion Sorter
+- Merge Sorter
+- Quick Sorter
+- Radix Sorter
+- Selection Sorter
+- Graph Traversal
+  - Depth-First Search
+  - Breadth-First Search
+- Minnimum Spanning Tree
+  - Kruskal's Algorithm
+  - Prim-Jarnik's Algorithm - provided by teaching staff
+- Shortest Path
+  - Dijkstra's Algorithm
+
+Portions of this code were provided by the CSC316 teaching staff, which has been indicated in javadoc comments.
