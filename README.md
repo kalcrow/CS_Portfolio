@@ -8,6 +8,7 @@ Code for this class was written in C, using Notepad++ and run in WSL.
 This class also required uploading code to a Github repository, and testing code on a remote Linux machine using SSH.
 
 **Encrypter:** A project that encrypts and decrypts blocks of text using the DES algorithm
+
 **Hash Map:** A project that stores text or integer values in a hash map, taking user commands to manipulate and report data
 
 # CSC 316
