@@ -4,7 +4,7 @@ Portfolio of programming projects completed at NCSU to demonstrate programming a
 # CSC 230
 *C and Software Tools*
 
-Code for this class was written in C, using Notepad++ and running in WSL.
+Code for this class was written in C, using Notepad++ and run in WSL.
 This class also required uploading code to a Github repository, and testing code on a remote machine using ssh.
 
 **Encrypter:** A project that encrypts and decrypts blocks of text using the DES algorithm
