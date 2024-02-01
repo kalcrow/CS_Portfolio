@@ -1,1 +1,14 @@
-
+This program takes user commands to input and manipulate data, which is stored in a hash map. It can store integers, along with strings 
+which are hashed using the Jenkings hash function. Lines are read from standard input, and valid commands consist of:
+- set
+  - takes a key and a value as parameters 
+  - either adds the value to the map or replaces a value with the same key thats already in the map with the given value
+- get
+  - takes a key as a parameter
+  - returns the value the given key, or prints "Undefined" if no value with that key exists
+- remove
+  - takes a key as a parameter
+  - removes the value with the given key, or prints "Not in map" if no value with that key exists
+- size
+  - takes no parameters
+  - returns the size of the map
