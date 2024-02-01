@@ -14,7 +14,7 @@ This class also required uploading code to a Github repository, and testing code
 # CSC 316
 *Data Structures and Algorithms*
 
-Code for this class was written in Java, using Eclipse IDE and uploading to a GitHub repository.
+Code for this class was written in Java, using Eclipse IDE, and uploaded to a GitHub repository.
 The class also required generating javadoc and writing JUnit test.
 
 **Data Structures:** A project that consists of implementations of data structures and algorithms discussed in CSC 316
